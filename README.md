@@ -8,7 +8,7 @@ apt-get update
 apt-get install ifupdown
 ```
  
-Configure your /etc/network/interfaces file with configuration stanzas such as:
+Configure your `/etc/network/interfaces` file with configuration stanzas such as:
 ```
 auto lo
 iface lo inet loopback
