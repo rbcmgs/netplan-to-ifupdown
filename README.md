@@ -49,7 +49,7 @@ apt-get --assume-yes purge nplan netplan.io
 
 DNS Resolver
 
-Because Ubuntu Bionic Beaver (18.04) make use of the DNS stub resolver as provided by SYSTEMD-RESOLVED.SERVICE(8), you SHOULD also add the DNS to contact into the /etc/systemd/resolved.conf file. For instance:
+Because Ubuntu Bionic Beaver (18.04) make use of the DNS stub resolver as provided by SYSTEMD-RESOLVED.SERVICE(8), you SHOULD also add the DNS to contact into the `/etc/systemd/resolved.conf` file. For instance:
 
 ```
 [Resolve]
