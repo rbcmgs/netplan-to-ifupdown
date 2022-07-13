@@ -1,4 +1,4 @@
-# Reverting from netplan to ifupdown on Ubuntu 18.04
+# Reverting from netplan to ifupdown on Ubuntu
 
 Note: You MUST, of course, adapt the values according to your system (network, interface name…)
 
